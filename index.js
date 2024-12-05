@@ -67,6 +67,12 @@ app.post("/recommend", (req, res) => {
   }
 });
 
+
+app.get('/', async (req, res) => {
+  res.render('public/index.html'); // Use the correct 'render' method
+});
+
+
 app.listen(PORT, () => {
   console.log(`Server running at http://localhost:${PORT}`);
 });
