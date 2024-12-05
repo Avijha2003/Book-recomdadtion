@@ -1,0 +1,549 @@
+[
+  {
+    "title": "To Kill a Mockingbird",
+    "genre": "Classic, Drama",
+    "author": "Harper Lee",
+    "link": "https://www.amazon.com/dp/0060935464"
+  },
+  {
+    "title": "1984",
+    "genre": "Dystopian, Science Fiction",
+    "author": "George Orwell",
+    "link": "https://www.amazon.com/dp/0451524934"
+  },
+  {
+    "title": "The Great Gatsby",
+    "genre": "Classic, Fiction",
+    "author": "F. Scott Fitzgerald",
+    "link": "https://www.amazon.com/dp/0743273567"
+  },
+  {
+    "title": "The Catcher in the Rye",
+    "genre": "Classic, Young Adult",
+    "author": "J.D. Salinger",
+    "link": "https://www.amazon.com/dp/0316769487"
+  },
+  {
+    "title": "Pride and Prejudice",
+    "genre": "Classic, Romance",
+    "author": "Jane Austen",
+    "link": "https://www.amazon.com/dp/1503290565"
+  },
+  {
+    "title": "The Hobbit",
+    "genre": "Fantasy, Adventure",
+    "author": "J.R.R. Tolkien",
+    "link": "https://www.amazon.com/dp/054792822X"
+  },
+  {
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "genre": "Fantasy, Young Adult",
+    "author": "J.K. Rowling",
+    "link": "https://www.amazon.com/dp/059035342X"
+  },
+  {
+    "title": "The Lord of the Rings",
+    "genre": "Fantasy, Epic",
+    "author": "J.R.R. Tolkien",
+    "link": "https://www.amazon.com/dp/0544003411"
+  },
+  {
+    "title": "Fahrenheit 451",
+    "genre": "Dystopian, Science Fiction",
+    "author": "Ray Bradbury",
+    "link": "https://www.amazon.com/dp/1451673310"
+  },
+  {
+    "title": "Moby Dick",
+    "genre": "Classic, Adventure",
+    "author": "Herman Melville",
+    "link": "https://www.amazon.com/dp/1503280780"
+  },
+  {
+    "title": "Jane Eyre",
+    "genre": "Classic, Gothic",
+    "author": "Charlotte Brontë",
+    "link": "https://www.amazon.com/dp/1503278190"
+  },
+  {
+    "title": "Animal Farm",
+    "genre": "Dystopian, Satire",
+    "author": "George Orwell",
+    "link": "https://www.amazon.com/dp/0451526341"
+  },
+  {
+    "title": "The Alchemist",
+    "genre": "Fiction, Adventure",
+    "author": "Paulo Coelho",
+    "link": "https://www.amazon.com/dp/0062315005"
+  },
+  {
+    "title": "Brave New World",
+    "genre": "Dystopian, Science Fiction",
+    "author": "Aldous Huxley",
+    "link": "https://www.amazon.com/dp/0060850523"
+  },
+  {
+    "title": "Wuthering Heights",
+    "genre": "Classic, Romance",
+    "author": "Emily Brontë",
+    "link": "https://www.amazon.com/dp/1505313101"
+  },
+  {
+    "title": "The Kite Runner",
+    "genre": "Drama, Historical",
+    "author": "Khaled Hosseini",
+    "link": "https://www.amazon.com/dp/159463193X"
+  },
+  {
+    "title": "The Book Thief",
+    "genre": "Historical, Fiction",
+    "author": "Markus Zusak",
+    "link": "https://www.amazon.com/dp/0375842209"
+  },
+  {
+    "title": "The Chronicles of Narnia",
+    "genre": "Fantasy, Adventure",
+    "author": "C.S. Lewis",
+    "link": "https://www.amazon.com/dp/0066238501"
+  },
+  {
+    "title": "Slaughterhouse-Five",
+    "genre": "Science Fiction, War",
+    "author": "Kurt Vonnegut",
+    "link": "https://www.amazon.com/dp/0385333846"
+  },
+  {
+    "title": "Crime and Punishment",
+    "genre": "Classic, Psychological",
+    "author": "Fyodor Dostoevsky",
+    "link": "https://www.amazon.com/dp/048645411X"
+  },
+  {
+    "title": "War and Peace",
+    "genre": "Classic, Historical",
+    "author": "Leo Tolstoy",
+    "link": "https://www.amazon.com/dp/0199232768"
+  },
+  {
+    "title": "The Odyssey",
+    "genre": "Classic, Epic",
+    "author": "Homer",
+    "link": "https://www.amazon.com/dp/0140268863"
+  },
+  {
+    "title": "The Iliad",
+    "genre": "Classic, Epic",
+    "author": "Homer",
+    "link": "https://www.amazon.com/dp/0140447946"
+  },
+  {
+    "title": "Don Quixote",
+    "genre": "Classic, Satire",
+    "author": "Miguel de Cervantes",
+    "link": "https://www.amazon.com/dp/0060934344"
+  },
+  {
+    "title": "The Picture of Dorian Gray",
+    "genre": "Classic, Gothic",
+    "author": "Oscar Wilde",
+    "link": "https://www.amazon.com/dp/0486278077"
+  },
+  {
+    "title": "The Count of Monte Cristo",
+    "genre": "Classic, Adventure",
+    "author": "Alexandre Dumas",
+    "link": "https://www.amazon.com/dp/0140449264"
+  },
+  {
+    "title": "The Brothers Karamazov",
+    "genre": "Classic, Psychological",
+    "author": "Fyodor Dostoevsky",
+    "link": "https://www.amazon.com/dp/0374528373"
+  },
+  {
+    "title": "Great Expectations",
+    "genre": "Classic, Drama",
+    "author": "Charles Dickens",
+    "link": "https://www.amazon.com/dp/1505281496"
+  },
+  {
+    "title": "A Tale of Two Cities",
+    "genre": "Classic, Historical",
+    "author": "Charles Dickens",
+    "link": "https://www.amazon.com/dp/1503219701"
+  },
+  {
+    "title": "Les Misérables",
+    "genre": "Classic, Historical",
+    "author": "Victor Hugo",
+    "link": "https://www.amazon.com/dp/045141943X"
+  },
+  {
+    "title": "The Scarlet Letter",
+    "genre": "Classic, Drama",
+    "author": "Nathaniel Hawthorne",
+    "link": "https://www.amazon.com/dp/1500759124"
+  },
+  {
+    "title": "Of Mice and Men",
+    "genre": "Classic, Drama",
+    "author": "John Steinbeck",
+    "link": "https://www.amazon.com/dp/0140177396"
+  },
+  {
+    "title": "East of Eden",
+    "genre": "Classic, Family Saga",
+    "author": "John Steinbeck",
+    "link": "https://www.amazon.com/dp/0142000655"
+  },
+  {
+    "title": "The Grapes of Wrath",
+    "genre": "Classic, Historical,",
+    "author": "John Steinbeck",
+    "link": "https://www.amazon.com/dp/0143039431"
+  },
+
+  {
+    "title": "The Road",
+    "genre": "Dystopian, Fiction",
+    "author": "Cormac McCarthy",
+    "link": "https://www.amazon.com/dp/0307387895"
+  },
+  {
+    "title": "The Shining",
+    "genre": "Horror, Thriller",
+    "author": "Stephen King",
+    "link": "https://www.amazon.com/dp/0307743659"
+  },
+  {
+    "title": "The Goldfinch",
+    "genre": "Fiction, Drama",
+    "author": "Donna Tartt",
+    "link": "https://www.amazon.com/dp/0316055441"
+  },
+  {
+    "title": "Beloved",
+    "genre": "Historical, Fiction",
+    "author": "Toni Morrison",
+    "link": "https://www.amazon.com/dp/1400033411"
+  },
+  {
+    "title": "Life of Pi",
+    "genre": "Adventure, Fiction",
+    "author": "Yann Martel",
+    "link": "https://www.amazon.com/dp/0156027321"
+  },
+  {
+    "title": "The Girl on the Train",
+    "genre": "Thriller, Mystery",
+    "author": "Paula Hawkins",
+    "link": "https://www.amazon.com/dp/0735212155"
+  },
+  {
+    "title": "Gone Girl",
+    "genre": "Thriller, Mystery",
+    "author": "Gillian Flynn",
+    "link": "https://www.amazon.com/dp/0307588378"
+  },
+  {
+    "title": "The Fault in Our Stars",
+    "genre": "Young Adult, Romance",
+    "author": "John Green",
+    "link": "https://www.amazon.com/dp/0525478817"
+  },
+  {
+    "title": "Me Before You",
+    "genre": "Romance, Drama",
+    "author": "Jojo Moyes",
+    "link": "https://www.amazon.com/dp/0143109464"
+  },
+  {
+    "title": "Big Little Lies",
+    "genre": "Fiction, Mystery",
+    "author": "Liane Moriarty",
+    "link": "https://www.amazon.com/dp/0425274861"
+  },
+  {
+    "title": "Little Fires Everywhere",
+    "genre": "Fiction, Drama",
+    "author": "Celeste Ng",
+    "link": "https://www.amazon.com/dp/0735224315"
+  },
+  {
+    "title": "The Silent Patient",
+    "genre": "Thriller, Mystery",
+    "author": "Alex Michaelides",
+    "link": "https://www.amazon.com/dp/1250301696"
+  },
+  {
+    "title": "Where the Crawdads Sing",
+    "genre": "Fiction, Mystery",
+    "author": "Delia Owens",
+    "link": "https://www.amazon.com/dp/0735219095"
+  },
+  {
+    "title": "Educated",
+    "genre": "Biography, Memoir",
+    "author": "Tara Westover",
+    "link": "https://www.amazon.com/dp/0399590501"
+  },
+  {
+    "title": "Becoming",
+    "genre": "Biography, Memoir",
+    "author": "Michelle Obama",
+    "link": "https://www.amazon.com/dp/1524763136"
+  },
+  {
+    "title": "Atomic Habits",
+    "genre": "Self-Help, Productivity",
+    "author": "James Clear",
+    "link": "https://www.amazon.com/dp/0735211299"
+  },
+  {
+    "title": "Sapiens: A Brief History of Humankind",
+    "genre": "Non-Fiction, History",
+    "author": "Yuval Noah Harari",
+    "link": "https://www.amazon.com/dp/0062316095"
+  },
+  {
+    "title": "Think and Grow Rich",
+    "genre": "Self-Help, Business",
+    "author": "Napoleon Hill",
+    "link": "https://www.amazon.com/dp/1585424331"
+  },
+  {
+    "title": "The 7 Habits of Highly Effective People",
+    "genre": "Self-Help, Business",
+    "author": "Stephen R. Covey",
+    "link": "https://www.amazon.com/dp/0743269519"
+  },
+  {
+    "title": "Dune",
+    "genre": "Science Fiction, Fantasy",
+    "author": "Frank Herbert",
+    "link": "https://www.amazon.com/dp/0441013597"
+  },
+  {
+    "title": "Ender's Game",
+    "genre": "Science Fiction, Adventure",
+    "author": "Orson Scott Card",
+    "link": "https://www.amazon.com/dp/0812550706"
+  },
+  {
+    "title": "Neuromancer",
+    "genre": "Science Fiction, Cyberpunk",
+    "author": "William Gibson",
+    "link": "https://www.amazon.com/dp/0441569595"
+  },
+  {
+    "title": "Snow Crash",
+    "genre": "Science Fiction, Cyberpunk",
+    "author": "Neal Stephenson",
+    "link": "https://www.amazon.com/dp/0553380958"
+  },
+  {
+    "title": "The Handmaid's Tale",
+    "genre": "Dystopian, Fiction",
+    "author": "Margaret Atwood",
+    "link": "https://www.amazon.com/dp/038549081X"
+  },
+  {
+    "title": "The Hunger Games",
+    "genre": "Dystopian, Young Adult",
+    "author": "Suzanne Collins",
+    "link": "https://www.amazon.com/dp/0439023521"
+  },
+  {
+    "title": "The House of the Spirits",
+    "genre": "Magical Realism, Historical",
+    "author": "Isabel Allende",
+    "link": "https://www.amazon.com/dp/0553383809"
+  },
+  {
+    "title": "The Night Circus",
+    "genre": "Fantasy, Romance",
+    "author": "Erin Morgenstern",
+    "link": "https://www.amazon.com/dp/0307744434"
+  },
+  {
+    "title": "Circe",
+    "genre": "Mythology, Fantasy",
+    "author": "Madeline Miller",
+    "link": "https://www.amazon.com/dp/0316556343"
+  },
+  {
+    "title": "The Midnight Library",
+    "genre": "Fantasy, Fiction",
+    "author": "Matt Haig",
+    "link": "https://www.amazon.com/dp/0525559477"
+  },
+  {
+    "title": "Hyperion",
+    "genre": "Science Fiction, Epic",
+    "author": "Dan Simmons",
+    "link": "https://www.amazon.com/dp/0553283685"
+  },
+  {
+    "title": "The Martian",
+    "genre": "Science Fiction, Survival",
+    "author": "Andy Weir",
+    "link": "https://www.amazon.com/dp/0553418025"
+  },
+  {
+    "title": "Good Omens",
+    "genre": "Fantasy, Humor",
+    "author": "Neil Gaiman and Terry Pratchett",
+    "link": "https://www.amazon.com/dp/0060853980"
+  },
+  {
+    "title": "The Giver",
+    "genre": "Dystopian, Young Adult",
+    "author": "Lois Lowry",
+    "link": "https://www.amazon.com/dp/0544336267"
+  },
+  {
+    "title": "The Water Dancer",
+    "genre": "Historical, Fiction",
+    "author": "Ta-Nehisi Coates",
+    "link": "https://www.amazon.com/dp/0399590595"
+  },
+  {
+    "title": "A Man Called Ove",
+    "genre": "Fiction, Humor",
+    "author": "Fredrik Backman",
+    "link": "https://www.amazon.com/dp/1476738025"
+  },
+  {
+    "title": "Shantaram",
+    "genre": "Adventure, Fiction",
+    "author": "Gregory David Roberts",
+    "link": "https://www.amazon.com/dp/0312330538"
+  },
+  {
+    "title": "Norwegian Wood",
+    "genre": "Romance, Drama",
+    "author": "Haruki Murakami",
+    "link": "https://www.amazon.com/dp/0375704027"
+  },
+  {
+    "title": "The Wind-Up Bird Chronicle",
+    "genre": "Magical Realism, Mystery",
+    "author": "Haruki Murakami",
+    "link": "https://www.amazon.com/dp/0679775439"
+  },
+  {
+    "title": "Born a Crime",
+    "genre": "Memoir, Humor",
+    "author": "Trevor Noah",
+    "link": "https://www.amazon.com/dp/0399588191"
+  },
+  {
+    "title": "Kitchen Confidential",
+    "genre": "Memoir, Food",
+    "author": "Anthony Bourdain",
+    "link": "https://www.amazon.com/dp/0060899220"
+  },
+  {
+    "title": "The Art of War",
+    "genre": "Strategy, Philosophy",
+    "author": "Sun Tzu",
+    "link": "https://www.amazon.com/dp/1590302257"
+  },
+  {
+    "title": "Meditations",
+    "genre": "Philosophy, Self-Help",
+    "author": "Marcus Aurelius",
+    "link": "https://www.amazon.com/dp/048629823X"
+  },
+  {
+    "title": "How to Win Friends and Influence People",
+    "genre": "Self-Help, Psychology",
+    "author": "Dale Carnegie",
+    "link": "https://www.amazon.com/dp/0671027034"
+  },
+  {
+    "title": "The Power of Now",
+    "genre": "Spirituality, Self-Help",
+    "author": "Eckhart Tolle",
+    "link": "https://www.amazon.com/dp/1577314808"
+  },
+  {
+    "title": "The Song of Achilles",
+    "genre": "Mythology, Romance",
+    "author": "Madeline Miller",
+    "link": "https://www.amazon.com/dp/0062060627"
+  },
+  {
+    "title": "The Shadow of the Wind",
+    "genre": "Mystery, Historical",
+    "author": "Carlos Ruiz Zafón",
+    "link": "https://www.amazon.com/dp/0143034901"
+  },
+  {
+    "title": "Kafka on the Shore",
+    "genre": "Magical Realism, Fiction",
+    "author": "Haruki Murakami",
+    "link": "https://www.amazon.com/dp/1400079276"
+  },
+  {
+    "title": "The Name of the Wind",
+    "genre": "Fantasy, Epic",
+    "author": "Patrick Rothfuss",
+    "link": "https://www.amazon.com/dp/0756404746"
+  },
+  {
+    "title": "Mistborn: The Final Empire",
+    "genre": "Fantasy, Epic",
+    "author": "Brandon Sanderson",
+    "link": "https://www.amazon.com/dp/076531178X"
+  },
+  {
+    "title": "The Lies of Locke Lamora",
+    "genre": "Fantasy, Heist",
+    "author": "Scott Lynch",
+    "link": "https://www.amazon.com/dp/055358894X"
+  },
+  {
+    "title": "Dracula",
+    "genre": "Horror, Gothic",
+    "author": "Bram Stoker",
+    "link": "https://www.amazon.com/dp/0486411095"
+  },
+  {
+    "title": "Frankenstein",
+    "genre": "Horror, Gothic",
+    "author": "Mary Shelley",
+    "link": "https://www.amazon.com/dp/0486282112"
+  },
+  {
+    "title": "The Turn of the Screw",
+    "genre": "Horror, Mystery",
+    "author": "Henry James",
+    "link": "https://www.amazon.com/dp/0486266842"
+  },
+  {
+    "title": "The Haunting of Hill House",
+    "genre": "Horror, Mystery",
+    "author": "Shirley Jackson",
+    "link": "https://www.amazon.com/dp/0143039989"
+  },
+  {
+    "title": "The Call of the Wild",
+    "genre": "Adventure, Classic",
+    "author": "Jack London",
+    "link": "https://www.amazon.com/dp/0486264726"
+  },
+  {
+    "title": "Treasure Island",
+    "genre": "Adventure, Classic",
+    "author": "Robert Louis Stevenson",
+    "link": "https://www.amazon.com/dp/0486275590"
+  },
+  {
+    "title": "Robinson Crusoe",
+    "genre": "Adventure, Classic",
+    "author": "Daniel Defoe",
+    "link": "https://www.amazon.com/dp/0486290735"
+  }
+]

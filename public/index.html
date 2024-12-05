@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Book Recommendation System</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      margin: 20px;
+    }
+    form {
+      margin-top: 20px;
+    }
+    textarea {
+      width: 80%;
+      max-width: 500px;
+    }
+    button {
+      padding: 10px 20px;
+      font-size: 16px;
+    }
+    table {
+      border-collapse: collapse;
+      margin-top: 20px;
+      width: 80%;
+    }
+    th, td {
+      border: 1px solid #ddd;
+      padding: 8px;
+    }
+    th {
+      background-color: #f2f2f2;
+      text-align: left;
+    }
+    tr:hover {
+      background-color: #f1f1f1;
+    }
+  </style>
+</head>
+<body>
+  <h1>Find Your Next Favorite Book</h1>
+  <form action="http://localhost:3000/recommend" method="POST">
+    <label for="interest">Describe your interest (e.g., a genre, story, or topic):</label><br>
+    <textarea id="interest" name="interest" rows="5" cols="50" required></textarea><br><br>
+    <button type="submit">Get Recommendations</button>
+  </form>
+</body>
+</html>
